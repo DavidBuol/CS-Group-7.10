@@ -1,2 +1,3 @@
-print("Hello World")
-print("hello again bitches")
+import streamlit as st
+
+st.write("Hooray it fking works")
